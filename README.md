@@ -2,7 +2,7 @@
 <br>
 <h2>Features</h2>
 <ul>
-    <li>containing 3 datasets with data about the same companies from 3 different sources</li>
+    <li>Containing 3 datasets with data about the same companies from 3 different sources</li>
     <li>Facebook (facebook dataset.csv)</li>
     <li>Google (google dataset.csv)</li>
     <li>Company Website (website dataset.csv)</li>

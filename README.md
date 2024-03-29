@@ -10,6 +10,12 @@
     <li>The columns that interest us the most are Category, Address (country, region...), Phone, Company names</li>
 </ul>
 
+<h2>Guidelines</h2>
+<ul>
+    <li>Q: What column will you use to join? A: "domain" column as the ID / PRIMARY KEY</li>
+    <li>Q: If you have data conflicts once you join, which one do you believe? A: If only one non-NaN value in the category columns, if columns have the same value, returns that value, otherwise having nothing at common, returns NaN</li>
+    <li>Q: If you have very similar data, what information will you keep? A: If they share a common word, it returns the first value containing that common word</li>
+</ul>
 
 <h2>Acknowledgments</h2>
 

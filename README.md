@@ -1,4 +1,4 @@
-<h1> Datasets Join (Deeptech Engineer Intern Challenge) - ML Python Project</h1>
+<h1> Datasets Join (Deeptech Engineer Intern Challenge) - Python Project</h1>
 <br>
 <h2>Features</h2>
 <ul>
